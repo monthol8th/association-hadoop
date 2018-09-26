@@ -1,5 +1,7 @@
 # Association-Rule-Mining-Hadoop-Python
 
+based on github.com/MandarGogate/Association-Rule-Mining-Hadoop-Python with Creative Commons CC0 Public Domain Dedication waives copyright
+
 Note:- Sample Data and Results are available in the Sample folder.
 
 # Table of contents
